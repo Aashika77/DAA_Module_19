@@ -14,8 +14,8 @@
 ```
 /*
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: Danish Nicho N
-Register Number: 212222040030 
+Developed by: Aashika
+Register Number: 212222040001
 */
 ```
 ```
